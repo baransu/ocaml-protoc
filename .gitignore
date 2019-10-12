@@ -9,3 +9,6 @@ _build
 ocaml-protoc
 ocaml_protoc.byte
 ocaml_protoc.native
+
+_esy
+node_modules
